@@ -1,0 +1,165 @@
+/* mobile */
+@media (max-width:46.1875em) {
+    .s-col-full {
+        width: 100%;
+    }
+
+    #nav {
+        display: block;
+    }
+
+    #nav>li {
+        display: block;
+    }
+
+    #nav>li:first-child {
+        display: inline-block;
+    }
+
+    #nav .subnav {
+        position: initial;
+        background-color: #333;
+    }
+
+    #nav .subnav a {
+        color: #fff;
+        padding: 5px 41px;
+    }
+
+    #header {
+        overflow: hidden;
+    }
+
+    #header .search-botton {
+        display: none;
+    }
+
+    #header .menu-mobile-botton {
+        display: block;
+    }
+
+    #content .member-list .member-item {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    #content .member-img {
+        width: 60%;
+    }
+
+    .contact-form {
+        margin-top: 16px;
+    }
+
+
+}
+
+@media(max-width:64em) {
+    .botton {
+        padding: 15px 16px;
+    }
+
+    .contact-form .form-control {
+        padding: 15px;
+    }
+
+    .social-media {
+        font-size: 48px;
+    }
+
+    #footer .social-media a {
+        margin: 0 8px;
+    }
+}
+
+/*tablet */
+@media (min-width:46.25em) and (max-width:64em) {
+
+    .contact-infor {
+        line-height: 2px;
+    }
+}
+
+
+/* mobile */
+@media (max-width:46.1875em) {
+    .s-col-full {
+        width: 100%;
+    }
+
+    #nav {
+        display: block;
+    }
+
+    #nav>li {
+        display: block;
+    }
+
+    #nav>li:first-child {
+        display: inline-block;
+    }
+
+    #nav .subnav {
+        position: initial;
+        background-color: #333;
+    }
+
+    #nav .subnav a {
+        color: #fff;
+        padding: 5px 41px;
+    }
+
+    #header {
+        overflow: hidden;
+    }
+
+    #header .search-botton {
+        display: none;
+    }
+
+    #header .menu-mobile-botton {
+        display: block;
+    }
+
+    #content .member-list .member-item {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    #content .member-img {
+        width: 60%;
+    }
+
+    .contact-form {
+        margin-top: 16px;
+    }
+
+
+}
+
+@media(max-width:64em) {
+    .botton {
+        padding: 15px 16px;
+    }
+
+    .contact-form .form-control {
+        padding: 15px;
+    }
+
+    .social-media {
+        font-size: 48px;
+    }
+
+    #footer .social-media a {
+        margin: 0 8px;
+    }
+}
+
+/*tablet */
+@media (min-width:46.25em) and (max-width:64em) {
+
+    .contact-infor {
+        line-height: 2px;
+    }
+
+}
